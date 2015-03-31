@@ -1,0 +1,12 @@
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\bin\Debug\Procesos.exe.config
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\bin\Debug\Procesos.exe
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\bin\Debug\Procesos.pdb
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\obj\Debug\Procesos.csprojResolveAssemblyReference.cache
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\obj\Debug\Procesos.Properties.Resources.resources
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\obj\Debug\Procesos.csproj.GenerateResource.Cache
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\obj\Debug\Procesos.exe
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\obj\Debug\Procesos.pdb
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\Procesos\Procesos\obj\Debug\Procesos.MainForm.resources
+C:\Users\Ludebe\Documents\GitHub\Procesos\Procesos\Procesos\bin\Debug\Procesos.exe.config
+C:\Users\Ludebe\Documents\GitHub\Procesos\Procesos\Procesos\obj\Debug\Procesos.exe
+C:\Users\Ludebe\Documents\GitHub\Procesos\Procesos\Procesos\obj\Debug\Procesos.pdb
