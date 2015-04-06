@@ -316,6 +316,7 @@
             // 
             // buttonTerminarProceso
             // 
+            this.buttonTerminarProceso.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonTerminarProceso.Location = new System.Drawing.Point(804, 214);
             this.buttonTerminarProceso.Name = "buttonTerminarProceso";
             this.buttonTerminarProceso.Size = new System.Drawing.Size(103, 23);
@@ -326,6 +327,7 @@
             // 
             // buttonIniciarProceso
             // 
+            this.buttonIniciarProceso.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonIniciarProceso.Location = new System.Drawing.Point(695, 214);
             this.buttonIniciarProceso.Name = "buttonIniciarProceso";
             this.buttonIniciarProceso.Size = new System.Drawing.Size(103, 23);
